@@ -2,9 +2,9 @@
 This project demonstrates K-Means clustering on the Iris dataset, utilizing unsupervised machine learning to identify patterns in data🔍.
 ## Technologies Used ⚙️:
 - Python Libraries:
--  🐼 Pandas, 🔢 NumPy (Data manipulation)  
--  📊 Matplotlib,  Seaborn (Visualization)  
--  🤖 Scikit-learn (Clustering)  
+  -  🐼 Pandas, 🔢 NumPy (Data manipulation)  
+  -  📊 Matplotlib,  Seaborn (Visualization)  
+  -  🤖 Scikit-learn (Clustering)  
 
 ## Project Workflow 📋
 - Data Preprocessing: Loaded and explored the Iris dataset. Dropped the Species column for clustering, and checked for missing values.  
